@@ -1,0 +1,29 @@
+
+index
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <titleAlura Plus></titleAlura>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"
+        <link real="stylesheet" href="styles.css">
+    </head>
+
+    <body></body>
+
+</html>
+
+tyle
+
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    
+}:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    
+}
